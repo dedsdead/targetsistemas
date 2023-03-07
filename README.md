@@ -1,5 +1,4 @@
-# targetsistemas
- resposta das questões no readme
+# resposta das questões
 
 ```
 1) 13
